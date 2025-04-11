@@ -1,4 +1,3 @@
-using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Scalar.AspNetCore;
 
 using TemplateApi.Application.Endpoints;
